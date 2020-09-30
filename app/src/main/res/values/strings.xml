@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarkdownSyntaxConvert</string>
+    <string name="your_converted_text_is">Your converted text is:</string>
+    <string name="back">Back</string>
+    <string name="please_input_your_text_here">Please input your text here:</string>
+    <string name="format_text">Format Text</string>
+</resources>
